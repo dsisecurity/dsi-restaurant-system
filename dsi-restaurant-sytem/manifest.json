@@ -1,0 +1,21 @@
+{
+  "name": "DSI POS",
+  "short_name": "DSI",
+  "start_url": "/dsi-restaurant-sytem/menu.php",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/dsi-restaurant-sytem/images/logo.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/dsi-restaurant-sytem/images/logo.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
